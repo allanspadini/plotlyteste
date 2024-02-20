@@ -1,0 +1,2 @@
+dash==2.15.0  # Substitua x.x.x pela versão específica que você está usando
+gunicorn==x.x.x  # Substitua x.x.x pela versão específica que você está usando
