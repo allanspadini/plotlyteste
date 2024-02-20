@@ -1,2 +1,3 @@
-dash==2.15.0  # Substitua x.x.x pela versão específica que você está usando
-gunicorn==x.x.x  # Substitua x.x.x pela versão específica que você está usando
+dash==2.15.0
+gunicorn==20.1.0
+Werkzeug==3.0.1
